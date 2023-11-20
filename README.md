@@ -2,8 +2,7 @@
 <p>Graduate in System Analysis and Development at FATEC São Caetano do Sul. Deepening and strengthening knowledge to become a Python Developer
 
 <h3>About me:</h3>
-🔭 I’m currently working on my Graduation Project<br>
-🌱 I’m currently learning HTML5, CSS3 and JavaScript<br>
+🌱 I’m currently learning Python<br>
 📫 How to reach me: santoslucasdavid@gmail.com<br>
 
 <div style="display: inline_block">
