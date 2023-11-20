@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Lucas David 👋</h1>
-<p>Currently attending the 6th semester of the Analysis and Systems Development course at FATEC São Caetano do Sul. Deepening and strengthening knowledge to become a Python Developer
+<p>Graduate in System Analysis and Development at FATEC São Caetano do Sul. Deepening and strengthening knowledge to become a Python Developer
 
 <h3>About me:</h3>
 🔭 I’m currently working on my Graduation Project<br>
