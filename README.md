@@ -1,8 +1,7 @@
 <h1>Hi there, I'm Lucas David 👋</h1>
-<p>Graduate in System Analysis and Development at FATEC São Caetano do Sul. Deepening and strengthening knowledge to become a Python Developer
+<p>Graduate in System Analysis and Development at FATEC São Caetano do Sul. Deepening and strengthening knowledge to become a developer
 
 <h3>About me:</h3>
-🌱 I’m currently learning Python<br>
 📫 How to reach me: santoslucasdavid@gmail.com<br>
 
 <div style="display: inline_block">
