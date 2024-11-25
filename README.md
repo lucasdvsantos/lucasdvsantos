@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Lucas David 👋</h1>
-<p>Graduate in System Analysis and Development at FATEC São Caetano do Sul. Deepening and strengthening knowledge to become a developer
+<p>Graduate in System Analysis and Development at FATEC São Caetano do Sul. Deepening and strengthening knowledge to become a better developer
 
 <h3>About me:</h3>
 📫 How to reach me: santoslucasdavid@gmail.com<br>
