@@ -1,19 +1,22 @@
-<h1>Hi there, I'm Lucas David 👋</h1>
-<p>Graduate in System Analysis and Development at FATEC São Caetano do Sul. Deepening and strengthening knowledge to become a better developer
+# Hi there, I'm Lucas David 👋
 
-<h3>About me:</h3>
-📫 How to reach me: santoslucasdavid@gmail.com<br>
+Software Developer in the making, currently working as an Information Security Analyst. A technology enthusiast with a strong focus on back-end development, always eager to deepen my programming skills and explore new challenges.
 
-<div style="display: inline_block">
-<h3>💻🚀Languages and Technologies</h3>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
+- 🎓 Graduate in System Analysis and Development at FATEC São Caetano do Sul
+- ⚡ Foodie, fitness newbie and casual gamer
+
+## 💻🚀Languages and Technologies
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
-  <div>
-  <h3>Where to find me</h3>
-  <a href="https://www.linkedin.com/in/lucas-david-dos-santos-276066167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 📱Where to find me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-david-dos-santos-276066167/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoslucasdavid@gmail.com)
+
+
 
 
